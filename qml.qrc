@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>Image/demo.png</file>
+        <file>Image/back.png</file>
+        <file>Image/other2.png</file>
+    </qresource>
+    <qresource prefix="/people">
+        <file>Image/human (2).jpg</file>
+        <file>Image/human (3).jpg</file>
+        <file>Image/human (4).jpg</file>
+        <file>Image/human (5).jpg</file>
+        <file>Image/human (6).jpg</file>
+        <file>Image/human (7).jpg</file>
+        <file>Image/human (8).jpg</file>
+        <file>Image/human (9).jpg</file>
+        <file>Image/human (10).jpg</file>
+        <file>Image/human (11).jpg</file>
+        <file>Image/human (12).jpg</file>
+        <file>Image/human (13).jpg</file>
+        <file>Image/human (14).jpg</file>
+        <file>Image/human (15).jpg</file>
+        <file>Image/human (16).jpg</file>
+        <file>Image/human (17).jpg</file>
+        <file>Image/human (18).jpg</file>
+        <file>Image/human (19).jpg</file>
+        <file>Image/human (20).jpg</file>
+        <file>Image/human (21).jpg</file>
+        <file>Image/human (22).jpg</file>
+        <file>Image/human (23).jpg</file>
+        <file>Image/human (24).jpg</file>
+        <file>Image/human (25).jpg</file>
+        <file>Image/human (26).jpg</file>
+        <file>Image/human (27).jpg</file>
+        <file>Image/human (28).jpg</file>
+        <file>Image/human (29).jpg</file>
+        <file>Image/human (30).jpg</file>
+        <file>Image/human (31).jpg</file>
+        <file>Image/human (32).jpg</file>
+        <file>Image/human (33).jpg</file>
+        <file>Image/human (34).jpg</file>
+        <file>Image/human (35).jpg</file>
+        <file>Image/human (36).jpg</file>
+        <file>Image/human (37).jpg</file>
+        <file>Image/human (38).jpg</file>
+        <file>Image/human (39).jpg</file>
+        <file>Image/human (40).jpg</file>
+        <file>Image/human (41).jpg</file>
+        <file>Image/human (42).jpg</file>
+        <file>Image/human (43).jpg</file>
+        <file>Image/human (44).jpg</file>
+        <file>Image/human (45).jpg</file>
+        <file>Image/human (46).jpg</file>
+        <file>Image/human (47).jpg</file>
+        <file>Image/human (48).jpg</file>
+        <file>Image/human (49).jpg</file>
+        <file>Image/human (50).jpg</file>
+        <file>Image/human (51).jpg</file>
+        <file>Image/human (52).jpg</file>
+        <file>Image/human (53).jpg</file>
+        <file>Image/human (54).jpg</file>
+        <file>Image/human (55).jpg</file>
+        <file>Image/human (56).jpg</file>
+        <file>Image/human (57).jpg</file>
+        <file>Image/human (58).jpg</file>
+        <file>Image/human (59).jpg</file>
+        <file>Image/human (60).jpg</file>
+    </qresource>
+</RCC>
